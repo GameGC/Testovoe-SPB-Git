@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="451df541-9544-432e-9c11-b6aae250493f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/2b/8de59964/JobHandle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/EntityManagerAccessComponentData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Transforms.Hybrid/RotationProxy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/EntityCommandBufferSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/ff/84052593/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/EntityComponentStoreDebug.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics/rigid_transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Iterators/ArchetypeChunkArray.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Editor/Editors/GameObjectEntityEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Iterators/DynamicBuffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/44/08ba286c/WriteOnlyAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/IJobForEach.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39F0ED1E-9721-4419-BB4F-08D2D9032F82/50/123586f5/IJobForEach_BC`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/b1/75d4b47d/NativeDisableParallelForRestrictionAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/JobComponentSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/43/533897a2/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Iterators/ComponentDataFromEntity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics/math.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Iterators/EntityQuery.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Types/FastEquality.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Types/Entity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Types/TypeManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Scenes.Editor/ConversionWarningsEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@0.2.5-preview.1/Unity.Physics/ECS/Components/PhysicsComponents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39F0ED1E-9721-4419-BB4F-08D2D9032F82/03/b5774e38/IJobForEachWithEntity_EBC`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/GameObjectConversion/GameObjectConversionSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/8c/188147a3/NativeArray`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/Diff/EntityChangeSet.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/GameObjectConversion/BlobAssetComputationContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/GameObjectConversion/MultiList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/World.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/GameObjectConversion/GameObjectConversionUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/GameObjectConversion/GameObjectConversionMappingSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/57/844817b1/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ShootSystem/BulletSpawner/PathGeneratorAndBulletSpawnerSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/GameObjectConversion/ConversionJournalData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/GameObjectConversion/GameObjectConversionSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/GameObjectConversion/BlobAssetStore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/GameObjectConversion/JournalingUnityLogger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/9b/ba7022a1/TransformAccess.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/Components/GameObjectEntity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/Iterators/ComponentArray.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TerrainColliderToDots.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39F0ED1E-9721-4419-BB4F-08D2D9032F82/26/3cfc88e7/ISharedComponentData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/DistanceLimits/DistanceTurretLimitsSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Horizontal/RotateTurretSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Horizontal/RotateTurretLimitsAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/39F0ED1E-9721-4419-BB4F-08D2D9032F82/38/6e1d07d4/IJobForEachWithEntity_EC`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Vertical/RotateGunSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/IJobChunk.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Vertical/RotateGunLimitsAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/IJobForEach.gen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities.Hybrid/ConvertToEntity.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/ShootSystem/MainPlayerSharedAimingData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AE7E9345-8905-43E5-91D9-5E54B1EDD58B/68/2395125a/IJobParticleSystemParallelFor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@0.2.5-preview.1/Unity.Physics.Hybrid/Conversion/PhysicsBodyConversionSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Movement/ComponentData/TankVelocity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Movement/Systems/TankWheelSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/ComponentSystemGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7D252457-5F21-443A-B96C-1F3CEF8FACD4/5d/4bb5a310/TransformSystemGroup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Transforms/RotationEuler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Movement/Systems/TankMoveSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/EntityCommandBuffer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Movement/Systems/TankInputSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Camera/CameraLook/MouseLookSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Transforms/CompositeRotation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/ComponentSystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Transforms/ParentScaleInverse.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Camera/GetMouseWorldPositionSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Transforms/LocalToParent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/37/d949f957/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/945A0999-8ABB-42DE-AFE6-9CB25BA9468F/3a/7c529707/RotationEulerXYZ.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7D252457-5F21-443A-B96C-1F3CEF8FACD4/0a/291c6a0a/RotationPivot.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@0.2.5-preview.1/Unity.Physics.Hybrid/Components/PhysicsBodyAuthoring.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/ce/2f851cab/TransformAccessArray.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Transforms/Rotation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@0.2.5-preview.1/Unity.Physics.Hybrid/Utilities/PhysicsShapeExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Transforms/LocalToWorld.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7D252457-5F21-443A-B96C-1F3CEF8FACD4/d6/5ace8e43/RotationPivotTranslation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Transforms/Translation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/c5/6feac9f0/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Transforms/TRSToLocalToParentSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79F39C14-CD08-47A7-A51F-D88E9013D27A/dc/1f7c51fc/IJobForEach_B`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@0.2.5-preview.1/Unity.Physics/Extensions/World/ComponentExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0C448613-8686-4240-BCED-C18903EF78D9/dc/4662afc4/PhysicsGravityFactor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0C448613-8686-4240-BCED-C18903EF78D9/b3/feeaa5f6/PhysicsDamping.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics/quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.5.1-preview.11/Unity.Entities/CodeGeneratedJobForEach/UniversalDelegates.gen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/94C5F4C3-8CDC-42D2-B006-F8BADEF04394/ee/3550c6ec/IJobParallelForTransform.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/BulletSpawnTag.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/AimingSharedData.cs" />
+        <option value="$PROJECT_DIR$/Assets/RotareTurretLimits.cs" />
+        <option value="$PROJECT_DIR$/Assets/RotateTurretLimits.cs" />
+        <option value="$PROJECT_DIR$/Assets/RotateTurretLimitsAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/DistanceTurretLimitsAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/AimingSharedDataAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement/Systems/TankInputSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement/Systems/TankWheelSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletDamageEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletFlightEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletSpawnerAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/DestroyAfterSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/SpawnSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletPathAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletDataAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/BulletFlySystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Movement/Systems/TankMoveSystem.cs" />
+        <option value="$PROJECT_DIR$/RotateGunLimitsAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Move Gun/Vertical/RotateGunLimitsAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/AimingSharedData.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/MainPlayerSharedAimingData.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/GetMouseWorldPositionSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Move Gun/Horizontal/RotateTurretLimitsAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Move Gun/DistanceLimits/DistanceTurretLimitsSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/MyQuaternioExtras.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/MyQuaternionExtras.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Move Gun/Vertical/RotareGunSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Move Gun/Horizontal/RotareTurretSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Camera/MouseLookData.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Camera/MouseLook.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Camera/MouseLookSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Camera/CameraLook/MouseLookSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShootSystem/Camera/CameraLook/MouseLookData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Vertical/RotateGunLimitsAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Horizontal/RotateTurretLimitsAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Horizontal/RotareTurretSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Vertical/RotareGunSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/PathGeneratorSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/PathGeneratorandBulletSpawnerSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Movement/ComponentData/TankVelocity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Camera/GetMouseWorldPositionSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Horizontal/RotateTurretSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/PathGeneratorAndBulletSpawnerSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/DistanceLimits/DistanceTurretLimitsSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ShootSystem/Move Gun/Vertical/RotateGunSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Movement/Systems/TankWheelSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Movement/Systems/TankInputSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Movement/Systems/TankMoveSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/ShootSystem/BulletSpawner/PathGeneratorAndBulletSpawnerSystem.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XoFudt4hyEYYsmxmzMEbJ07ZVh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="451df541-9544-432e-9c11-b6aae250493f" name="Default Changelist" comment="" />
+      <created>1581704764649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581704764649</updated>
+      <workItem from="1581704769333" duration="2008000" />
+      <workItem from="1581763125406" duration="2868000" />
+      <workItem from="1581849819317" duration="782000" />
+      <workItem from="1581850612024" duration="4396000" />
+      <workItem from="1581857321892" duration="4663000" />
+      <workItem from="1581949179272" duration="5710000" />
+      <workItem from="1582176133400" duration="7150000" />
+      <workItem from="1582212930441" duration="7231000" />
+      <workItem from="1582291239798" duration="15284000" />
+      <workItem from="1582440423187" duration="9899000" />
+      <workItem from="1582458109112" duration="21891000" />
+      <workItem from="1582515014613" duration="6609000" />
+      <workItem from="1582528064553" duration="1830000" />
+      <workItem from="1582554730681" duration="6366000" />
+      <workItem from="1582608529629" duration="4801000" />
+      <workItem from="1582624424642" duration="9671000" />
+      <workItem from="1582642414328" duration="8139000" />
+      <workItem from="1582657356760" duration="6532000" />
+      <workItem from="1582697166659" duration="9479000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="803" y="206" key="RiderGenerateDialog" timestamp="1582556047513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="206" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582556047513" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1582442782390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582442782390" />
+    <state x="679" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582443888932">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="135" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582443888932" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1582702086056">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1582702086056" />
+  </component>
+</project>

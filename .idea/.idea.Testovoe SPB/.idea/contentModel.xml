@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Testovoe SPB.-1880813074.00" t="ExcludeRecursive" />
+    <e p="F:\Testovoe SPB" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="Camera" t="Include">
+            <e p="CameraLook" t="Include">
+              <e p="MouseLookData.cs" t="Include" />
+              <e p="MouseLookSystem.cs" t="Include" />
+            </e>
+            <e p="GetMouseWorldPositionSystem.cs" t="Include" />
+          </e>
+          <e p="Movement" t="Include">
+            <e p="ComponentData" t="Include">
+              <e p="TankVelocity.cs" t="Include" />
+              <e p="TankWheelsData.cs" t="Include" />
+            </e>
+            <e p="Systems" t="Include">
+              <e p="TankInputSystem.cs" t="Include" />
+              <e p="TankMoveSystem.cs" t="Include" />
+              <e p="TankWheelSystem.cs" t="Include" />
+            </e>
+          </e>
+          <e p="PlayerTag.cs" t="Include" />
+          <e p="ShootSystem" t="Include">
+            <e p="AimingSharedDataAuthoring.cs" t="Include" />
+            <e p="Bullet &amp; Fly" t="Include">
+              <e p="BulletDataAuthoring.cs" t="Include" />
+              <e p="BulletFlySystem.cs" t="Include" />
+              <e p="BulletPathAuthoring.cs" t="Include" />
+            </e>
+            <e p="BulletSpawner" t="Include">
+              <e p="BulletSpawnerAuthoring.cs" t="Include" />
+              <e p="PathGeneratorandBulletSpawnerSystem.cs" t="Include" />
+            </e>
+            <e p="MainPlayerSharedAimingData.cs" t="Include" />
+            <e p="Move Gun" t="Include">
+              <e p="DistanceLimits" t="Include">
+                <e p="DistanceTurretLimitsAuthoring.cs" t="Include" />
+                <e p="DistanceTurretLimitsSystem.cs" t="Include" />
+              </e>
+              <e p="Horizontal" t="Include">
+                <e p="RotateTurretLimitsAuthoring.cs" t="Include" />
+                <e p="RotateTurretSystem.cs" t="Include" />
+              </e>
+              <e p="Vertical" t="Include">
+                <e p="RotateGunLimitsAuthoring.cs" t="Include" />
+                <e p="RotateGunSystem.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Common" t="Include">
+          <e p="InputActions.cs" t="Include" />
+        </e>
+        <e p="TerrainColliderToDots.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Testovoe SPB.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
